@@ -1,2 +1,2 @@
 # CSDL
-CSDL quản lý sinh viên
+CSDL quản lý sinh viên sử dụng SQL
